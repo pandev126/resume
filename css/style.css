@@ -1309,10 +1309,10 @@ a:focus {
     background: #EF233C;
 }
 
-.contact .container-fluid {
+/* .contact .container-fluid {
     background: url(../img/contact.jpg) left center no-repeat;
     background-size: contain;
-}
+} */
 
 .contact .contact-form {
     position: relative;
@@ -1592,5 +1592,7 @@ a:focus {
 
 .text--white {
     color: white;
+}
+.font-20 {
     font-size: 20px;
 }
