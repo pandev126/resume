@@ -1570,7 +1570,19 @@ a:focus {
 .footer .copyright p a:hover {
     color: #414141;
 }
+.header-social {
+    margin-left: 30px;
+}
 
+.header-social a:hover i {
+    color: #414141;
+}
+.header-social i {
+    margin-right: 15px;
+    font-size: 20px;
+    color: #ffffff;
+    transition: .3s;
+}
 @media (max-width: 575.98px) {
     .footer .footer-info h2 {
         margin-bottom: 20px;
